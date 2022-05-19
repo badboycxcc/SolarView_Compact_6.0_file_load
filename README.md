@@ -1,4 +1,4 @@
-# SolarView_Compact_6.0_-
+# SolarView_Compact_6.0_文件读取
 ### Vulnerability code is Solar_Data.php
 
 ![image](https://user-images.githubusercontent.com/72059221/169178411-575f2e6d-15a4-4e24-8c02-fe304cd13f7f.png)
